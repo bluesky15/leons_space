@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NasaDailyImage</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_image_title" >NASA Image of the Day</string>
+<string name="test_image_date">Fri, 31 May 2013 00:00:00 EDT</string>
+<string name="test_image_description">The ISS SERVIR Environmental Research and Visualization System or
+ ISERV - a camera aboard the International Space Station - captures an image of
+ her hometown. ISERV was designed and built at NASA/s Marshall Space Flight
+ Center in Huntsvi</string>
+<string name="refresh">load</string>
+<string name="setwall">set</string>
+<string name="onSaveImage">save</string>
+</resources>
